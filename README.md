@@ -1,2 +1,2 @@
 # registration-cicd
-Tsting a registration app with CICD
+Testing a registration app with CICD
